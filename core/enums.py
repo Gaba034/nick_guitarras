@@ -41,5 +41,5 @@ class InstrumentType(Enum):
     FIDDLE = "Fiddle"
     BASS = "Bass"
     MANDOLIN = "Mandolin"
-    SAX = "Sax"
+    SAX = "Saxophone"
     UNSPECIFIED = "Unspecified"
